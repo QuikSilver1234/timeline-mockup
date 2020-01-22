@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+}
+
+.header {
+  background-color: cornflowerblue;
+  width: 20%;
+  margin: auto;
+  text-align: center;
+}
+
+.main-container {
+  width: 20%;
+  margin: auto;
+  text-align: center;
+}
+
+.timeline-items {
+  margin-top: 10px;
+}
+
+h3,
+p {
+  display: inline-block;
+}
+
+p {
+  border: 2px solid black;
+}
+
+.status-field {
+  border: 2px solid black;
+  margin-top: 10px;
+}
